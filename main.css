@@ -27,7 +27,6 @@ img {
 
 .text {
   padding: 5px;
-  margin: 0 6px;
 }
 .card .text .subtext {
   font-weight: 400;
@@ -39,6 +38,7 @@ img {
   font-weight: 700;
   font-size: 1.25rem;
   margin: 9px;
+  color: hsl(218, 44%, 22%);
 }
 .attribution {
   padding: 15px;
