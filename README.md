@@ -12,8 +12,6 @@ Live Site: [QR Code Component](https://sushcod3.github.io/qr-code-component/)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
 
-## Overview
-
 ### Screenshot
 
 ![screenshot](./images/screenshot.png)
