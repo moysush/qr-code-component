@@ -6,11 +6,9 @@ Live Site: [QR Code Component](https://sushcod3.github.io/qr-code-component/)
 
 ## Table of contents
 
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
+- [Screenshot](#screenshot)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
 
 ### Screenshot
 
