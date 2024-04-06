@@ -1,8 +1,8 @@
-# QR code component solution
+# QR Code Component
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/css-css-flexbox-html-tBHfY8Pkwn).
+This is a solution to the [Frontend Mentor](https://www.frontendmentor.io/solutions/css-css-flexbox-html-tBHfY8Pkwn).
 
-Live Site: https://sushcod3.github.io/qr-code-component/
+Live Site: [QR Code Component](https://sushcod3.github.io/qr-code-component/)
 
 ## Table of contents
 
